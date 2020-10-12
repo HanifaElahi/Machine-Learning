@@ -1,0 +1,9 @@
+Step 1: Importing Libraries and dependencies
+Step 2: Reading dataset into dataframe
+Step 3: Taking columns for Polynomial Linear Regression
+Step 4: Visualization of dataset
+Step 5: Splitting data into training and test set
+Step 6: Preprocessing Polynomial features
+Step 7: Training the model
+Step 8: Visualization of model
+Step 4: Prediction by the model
