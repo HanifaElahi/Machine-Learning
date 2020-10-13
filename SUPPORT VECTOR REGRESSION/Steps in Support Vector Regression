@@ -1,0 +1,7 @@
+Step 1 : importing libraries and dependencies
+Step 2 : Reading dataset into dataframe
+Step 3 : Featire scaling usinh StaandardScalar
+Step 4 : Visualization of dataset
+Step 5 : Training the model
+Step 6 : Visualizing the model
+Step 1 : Prediction by the model
