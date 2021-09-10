@@ -1,0 +1,9 @@
+Step 1 : Importing libraries and dependencies
+Step 2 : Resing .csv in dataframe
+Step 3 : Importing libraries and dependencies
+Step 4 : Visualization of dataset
+Step 5 : Conversion of dataframe to numpy arrays
+Step 6 : Training the model 
+Step 7 : Finding the mean squared error
+Step 8 : Visuaization of the trained model
+Step 9 : Prediction by the model
