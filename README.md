@@ -1,6 +1,6 @@
 # Machine-Learning
 
-**Machine Learning : Zero to Hero** Workshops
+**Machine Learning : Zero to Hero** DSCSSUET Workshops
 
 
 
