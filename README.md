@@ -2,7 +2,7 @@
 
 **Machine Learning : Zero to Hero** DSCSSUET Workshops
 
-##Regression:
+## Regression:
 
 1. Simple Linear Regression
 2. Multiple Linear Regression
