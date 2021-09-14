@@ -14,3 +14,4 @@
 ## Classification:
 
 1. Logistic Regression
+2. K Nearest Neighbor
