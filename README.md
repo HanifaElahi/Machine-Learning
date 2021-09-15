@@ -15,3 +15,5 @@
 
 1. Logistic Regression
 2. K Nearest Neighbor
+3. Support Vector Machine
+4. Naive Bayes
