@@ -17,3 +17,5 @@
 2. K Nearest Neighbor
 3. Support Vector Machine
 4. Naive Bayes
+5. Decision Tree Classification
+6. Random Forest Classification
