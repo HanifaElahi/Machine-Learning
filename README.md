@@ -4,7 +4,7 @@
 
 ## Regression:
 
-1. Simple Linear Regression
+1. Simple Linear Regression[https://github.com/HanifaElahi/Machine-Learning/tree/main/01_SimpleLinearRegression]
 2. Multiple Linear Regression
 3. Polynomial Linear Regression 
 4. Support Vector Regression
