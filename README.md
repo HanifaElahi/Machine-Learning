@@ -2,6 +2,12 @@
 
 **Machine Learning : Zero to Hero** DSCSSUET Workshops
 
+## Introduction to Machine Learning:
+ 
+ - Introduction to Machine Learning
+ - Data Pre-Processing
+ - Data Visualization
+
 ## Regression:
 
 1. [Simple Linear Regression](https://github.com/HanifaElahi/Machine-Learning/tree/main/01_SimpleLinearRegression)
