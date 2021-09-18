@@ -4,9 +4,9 @@
 
 ## Introduction to Machine Learning:
  
- - Introduction to Machine Learning
- - Data Pre-Processing
- - Data Visualization
+ - [Introduction to Machine Learning](https://github.com/HanifaElahi/Machine-Learning/blob/main/Introduction%20to%20Machine%20Learning/01_Intro_To_Machine_Learning.pdf)
+ - [Data Pre-Processing](https://github.com/HanifaElahi/Machine-Learning/tree/main/Data_Preprocessing)
+ - [Data Visualization](https://github.com/HanifaElahi/Machine-Learning/tree/main/DataVisualization)
 
 ## Regression:
 
@@ -30,4 +30,4 @@
 
 1. [K-Means Clustering](https://github.com/HanifaElahi/Machine-Learning/tree/main/13_K_Means_Clustering)
 2. [DBSCAN Clustering](https://github.com/HanifaElahi/Machine-Learning/tree/main/14_DBSCAN_Clustering)
-3. [Hierarchial Clustering]()
+3. [Hierarchial Clustering](https://github.com/HanifaElahi/Machine-Learning/tree/main/15_Hierarchical_Clustering)
