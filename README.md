@@ -22,6 +22,6 @@
 
 ## Clustering:
 
-1.K-Means Clustering
-2.DBSCAN Clustering
-3.Hierarchial Clustering
+1. K-Means Clustering
+2. DBSCAN Clustering
+3. Hierarchial Clustering
