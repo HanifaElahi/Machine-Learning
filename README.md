@@ -6,7 +6,7 @@
 
 1. [Simple Linear Regression](https://github.com/HanifaElahi/Machine-Learning/tree/main/01_SimpleLinearRegression)
 2. [Multiple Linear Regression](https://github.com/HanifaElahi/Machine-Learning/tree/main/02_MultipleLinearRegression)
-3. [Polynomial Linear Regression] (https://github.com/HanifaElahi/Machine-Learning/tree/main/03_PolynomialLinearRegression)
+3. [Polynomial Linear Regression](https://github.com/HanifaElahi/Machine-Learning/tree/main/03_PolynomialLinearRegression)
 4. [Support Vector Regression](https://github.com/HanifaElahi/Machine-Learning/tree/main/04_SupportVectorRegression)
 5. [Decision Tree Regression](https://github.com/HanifaElahi/Machine-Learning/tree/main/05_DecisionTree)
 6. [Random Forest Regression](https://github.com/HanifaElahi/Machine-Learning/tree/main/06_RandomForest)
