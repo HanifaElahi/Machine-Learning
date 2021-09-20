@@ -31,3 +31,4 @@
 1. [K-Means Clustering](https://github.com/HanifaElahi/Machine-Learning/tree/main/13_K_Means_Clustering)
 2. [DBSCAN Clustering](https://github.com/HanifaElahi/Machine-Learning/tree/main/14_DBSCAN_Clustering)
 3. [Hierarchial Clustering](https://github.com/HanifaElahi/Machine-Learning/tree/main/15_Hierarchical_Clustering)
+4. **Clustering Project** : [Customer Segmentation](https://github.com/HanifaElahi/Machine-Learning/tree/main/16_CustomerSegmentation)
