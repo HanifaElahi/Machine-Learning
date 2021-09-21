@@ -1,6 +1,6 @@
 # Machine-Learning
 
-**Machine Learning : Zero to Hero** DSCSSUET Workshops
+[**Machine Learning : Zero to Hero** DSCSSUET Workshops](https://gdsc.community.dev/sir-syed-university-of-engineering-and-technology/)
 
 ## Introduction to Machine Learning:
  
