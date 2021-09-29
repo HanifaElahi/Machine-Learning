@@ -33,6 +33,13 @@
 3. [Hierarchial Clustering](https://github.com/HanifaElahi/Machine-Learning/tree/main/15_Hierarchical_Clustering)
 4. **Clustering Project** : [Customer Segmentation](https://github.com/HanifaElahi/Machine-Learning/tree/main/16_CustomerSegmentation)
 
+## Neural Netowrks Basics:
+1. [Intro to Neural Networks]()
+2. [Gradient Descent Algorithm Explanation](https://github.com/HanifaElahi/Machine-Learning/blob/main/18_Gradient_Descent_Algorithm/Gradient%20Descent%20Algorithm.pdf)
+3. [Back Propagation](https://github.com/HanifaElahi/Machine-Learning/blob/main/19_Back_Propogation/22_BackPropagation.pdf)
+4. [Getting Started with Tensorflow]
+5. [Neural Networks from Scratch]
+
 
 ## Neural Networks:
 
