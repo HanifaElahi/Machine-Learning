@@ -41,4 +41,4 @@
 4. [Getting Started with Tensorflow]
 5. [Neural Networks from Scratch]
 
-## [Face Recognition] : (https://github.com/HanifaElahi/Machine-Learning/tree/main/Basic_Facial_Recognition)
+## [Face Recognition](https://github.com/HanifaElahi/Machine-Learning/tree/main/Basic_Facial_Recognition)
