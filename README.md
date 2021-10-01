@@ -38,7 +38,7 @@
 1. [Intro to Neural Networks](https://github.com/HanifaElahi/Machine-Learning/tree/main/17_Into_to_Neural_Networks)
 2. [Gradient Descent Algorithm Explanation](https://github.com/HanifaElahi/Machine-Learning/blob/main/18_Gradient_Descent_Algorithm/Gradient%20Descent%20Algorithm.pdf)
 3. [Back Propagation](https://github.com/HanifaElahi/Machine-Learning/blob/main/19_Back_Propogation/22_BackPropagation.pdf)
-4. [Getting Started with Tensorflow]
+4. [Getting Started with Tensorflow](https://github.com/HanifaElahi/Machine-Learning/tree/main/20_Getting_Started_with_TensorFlow)
 5. [Neural Networks from Scratch]
 
 ## [Face Recognition](https://github.com/HanifaElahi/Machine-Learning/tree/main/Basic_Facial_Recognition)
